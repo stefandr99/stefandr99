@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hello, I am Ștefan Drăgoi 👋 </h1>
 
-- 👨‍💻 I’m currently working at Endava as Mid .NET Developer 
+- 👨‍💻 I’m currently working at Centric Romania as Mid .NET Developer 
 - 👨‍🎓 I'm currently looking to improve my .NET and soft skills, implement algorithms in ARgumentation Framework and improve knowledge in Azure development area
 - 💬 Ask me about programming, .NET and studies in Informatics, I am more than happy to help 👨‍🏫
 - ⚡ Fun fact: in addition to programming, I love spending time with my family 👫, I like cooking 👨‍🍳 and I have recently developed a passion for history (especially events from WW2) 👨‍🏫
